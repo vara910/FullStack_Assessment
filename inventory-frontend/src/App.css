@@ -1,0 +1,115 @@
+/* src/App.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url('https://t3.ftcdn.net/jpg/04/59/15/58/360_F_459155812_i8zcXL46AxG1VKNQ5KaxSb6gGpapLuO0.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #333;
+}
+
+.App {
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.92);
+  max-width: 1000px;
+  margin: 40px auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  text-align: center;
+  color: #1c3e58;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  background: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.05);
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 14px 12px;
+  text-align: left;
+  font-size: 1rem;
+}
+
+th {
+  background: linear-gradient(to right, #3498db, #2980b9);
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f8f8f8;
+}
+
+tr:hover {
+  background-color: #eaf6fc;
+  transition: background-color 0.3s ease;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  background: linear-gradient(to right, #3498db, #2980b9);
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease, background-color 0.3s ease;
+  font-weight: 600;
+}
+
+button:hover {
+  background: linear-gradient(to right, #2c80b4, #2471a3);
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+button[type="button"] {
+  background: linear-gradient(to right, #e74c3c, #c0392b);
+}
+
+button[type="button"]:hover {
+  background: linear-gradient(to right, #c0392b, #a93226);
+}
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+  z-index: 10;
+  min-width: 320px;
+  max-width: 90%;
+}
+
+.modal h2 {
+  margin-top: 0;
+  color: #2c3e50;
+  text-align: center;
+}
+
+.modal input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+}

@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fullstack_Assessment\\Inventory Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vara.DESKTOP-OIPRRSN\\AppData\\Local\\Temp\\olxmlbci..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|d:\\fullstack_assessment\\inventory management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|d:\\fullstack_assessment\\inventory management\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|solutionrelative:models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|d:\\fullstack_assessment\\inventory management\\migrations\\20250507064917_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|solutionrelative:migrations\\20250507064917_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|d:\\fullstack_assessment\\inventory management\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|solutionrelative:data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|d:\\fullstack_assessment\\inventory management\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|d:\\fullstack_assessment\\inventory management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEB9E52-1E04-42ED-BA16-98EBD3E30300}|Inventory Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vara.DESKTOP-OIPRRSN\\AppData\\Local\\Temp\\olxmlbci..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vara.DESKTOP-OIPRRSN\\AppData\\Local\\Temp\\olxmlbci..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\AppData\\Local\\Temp\\olxmlbci..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-07T07:08:12.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250507064917_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Fullstack_Assessment\\Inventory Management\\Migrations\\20250507064917_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250507064917_InitialCreate.cs",
+              "ToolTip": "D:\\Fullstack_Assessment\\Inventory Management\\Migrations\\20250507064917_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250507064917_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:54:15.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Fullstack_Assessment\\Inventory Management\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Fullstack_Assessment\\Inventory Management\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T06:53:49.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "D:\\Fullstack_Assessment\\Inventory Management\\Data\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\InventoryDbContext.cs",
+              "ToolTip": "D:\\Fullstack_Assessment\\Inventory Management\\Data\\InventoryDbContext.cs",
+              "RelativeToolTip": "Data\\InventoryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:36:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "D:\\Fullstack_Assessment\\Inventory Management\\Models\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Models\\InventoryItem.cs",
+              "ToolTip": "D:\\Fullstack_Assessment\\Inventory Management\\Models\\InventoryItem.cs",
+              "RelativeToolTip": "Models\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:35:56.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "D:\\Fullstack_Assessment\\Inventory Management\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "D:\\Fullstack_Assessment\\Inventory Management\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:51:17.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fullstack_Assessment\\Inventory Management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Fullstack_Assessment\\Inventory Management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:37:06.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
