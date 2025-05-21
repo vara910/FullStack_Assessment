@@ -39,11 +39,3 @@ A full-stack Inventory Management System built with **React** (frontend) and **A
 - (Optional) [SQLite](https://www.sqlite.org/index.html) if using SQLite
 
 ---
-
-### 🔧 Backend Setup (`InventoryAPI`)
-
-```bash
-cd InventoryAPI
-dotnet restore
-dotnet ef database update  # Run migrations if needed
-dotnet run
